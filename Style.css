@@ -1,0 +1,93 @@
+body { background-color: rgb(207, 192, 150); }
+
+.fondo { width: 500px; 
+	height: 300px;
+    display: inline-block;
+    margin-top: 50px;
+    
+  
+
+}
+
+#Laos { 
+    background-color: gainsboro;
+}
+
+.Franja1 { width: 500px ;
+    height: 75px;
+    background-color: rgb(176, 1, 1); 
+}
+    
+.img { position: sticky;
+    margin-left: 185px;
+    margin-top: 89px;
+     float: left; 
+}
+
+.Franja2 { width: 500px;
+    height: 150px;
+    background-color: rgb(6, 0, 99);
+    top: 75px; 
+}
+
+.Franja3 { width: 500px ;
+    height: 75px;
+    top: 225px;
+    background-color: rgb(176, 1, 1); 
+}
+
+
+#Madagascar { 
+    background-color: gainsboro;
+}
+
+.frranja1 { width: 200px ; 
+    height: 300px ;
+    background-color: white; 
+}
+
+.frranja2 { width: 300px;
+    height: 150px; 
+    margin-top: -300px;
+    margin-left: 200px;
+    float: left;
+    background-color: rgb(226, 84, 22); 
+    
+}
+
+.frranja3 { width: 300px; 
+    height: 150px;
+    margin-top: -150px;
+    margin-left: 200px;
+    float: left;
+    background-color: rgb(42, 146, 0);
+}
+
+ #Mexico { background-color: olive; 
+    }
+    
+.frrranja1 { width: 150px; 
+    height: 300px;
+    background-color: rgb(24, 144, 39);
+}
+
+.frrranja2 { width: 200px;
+    height: 300px; 
+    margin-top: -300px;
+    margin-left: 150px;
+    background-color: white;
+}
+
+.frrranja3 { width: 150px;
+    height: 300px; 
+    margin-top: -300px;
+    margin-left: 350px;
+    background-color: rgb(196, 0, 0);
+}
+
+.imag { position: sticky;
+    margin-left: 166px;
+    margin-top:-193px;
+    float: left; 
+}
+
